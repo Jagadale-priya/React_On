@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/React_On/static/css/main.aabcbe95.css",
+    "main.js": "/React_On/static/js/main.101e3919.js",
+    "static/js/787.f237a53c.chunk.js": "/React_On/static/js/787.f237a53c.chunk.js",
+    "static/media/hang.png": "/React_On/static/media/hang.0e416e3bb1e377a1cec7.png",
+    "static/media/blue-paint-brush-stroke-6.png": "/React_On/static/media/blue-paint-brush-stroke-6.27581f61ff0949bff764.png",
+    "static/media/orange2.png": "/React_On/static/media/orange2.dd8728169b53b310db18.png",
+    "static/media/orange-paint-splash-clipart.png": "/React_On/static/media/orange-paint-splash-clipart.3eb74a104b80f67d707f.png",
+    "static/media/wp.jpeg": "/React_On/static/media/wp.c2f7d4367303eca3123b.jpeg",
+    "static/media/profile1.jpg": "/React_On/static/media/profile1.6e316be5bf2d698291d4.jpg",
+    "static/media/web4.jpg": "/React_On/static/media/web4.5fb0805f3724dbae92a0.jpg",
+    "static/media/profile3.jpeg": "/React_On/static/media/profile3.8045b28a4e28c009a9e3.jpeg",
+    "static/media/web2.webp": "/React_On/static/media/web2.dbe6f838c540cc6160ea.webp",
+    "static/media/profile4.jpg": "/React_On/static/media/profile4.15224ae00a1f1573f9f6.jpg",
+    "static/media/profile2.jpg": "/React_On/static/media/profile2.ccb55706696e151fd15c.jpg",
+    "static/media/Waves1.png": "/React_On/static/media/Waves1.f138ea782f11d3bf42c8.png",
+    "static/media/web.png": "/React_On/static/media/web.ae429e3ce11ed95f123b.png",
+    "static/media/blue2.png": "/React_On/static/media/blue2.c18be06d2e8b6daf6fe8.png",
+    "static/media/insta.jpg": "/React_On/static/media/insta.75ce24c38f023e8fe4fc.jpg",
+    "static/media/web3.webp": "/React_On/static/media/web3.d3ae43f577b6585a898e.webp",
+    "static/media/thumb.png": "/React_On/static/media/thumb.1bec6c2db1d3f91d580c.png",
+    "static/media/git.png": "/React_On/static/media/git.1e39a6e4e7af13d49f1a.png",
+    "static/media/heart.jpg": "/React_On/static/media/heart.0d4d0353499c10513226.jpg",
+    "static/media/upwork.webp": "/React_On/static/media/upwork.0a36fd6d5e1afb4dda88.webp",
+    "static/media/amezon2.webp": "/React_On/static/media/amezon2.7dc53638881df8999cdb.webp",
+    "static/media/crown.avif": "/React_On/static/media/crown.272039567b2cc342a4da.avif",
+    "static/media/logo.svg": "/React_On/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/React_On/index.html",
+    "main.aabcbe95.css.map": "/React_On/static/css/main.aabcbe95.css.map",
+    "main.101e3919.js.map": "/React_On/static/js/main.101e3919.js.map",
+    "787.f237a53c.chunk.js.map": "/React_On/static/js/787.f237a53c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aabcbe95.css",
+    "static/js/main.101e3919.js"
+  ]
+}
